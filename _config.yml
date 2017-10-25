@@ -1,0 +1,36 @@
+logo: PG
+title: Photos-Graphein - My awesome photos
+description: >
+  Welcome here. Photos-graphein.
+permalink: ':title/'
+baseurl: ""
+url: ""
+
+wallbanner: wallbanner_ossau.jpg
+banner-title: Photos-Graphein
+# banner-desc: "'Everyone could do that, he just did it', Anthony Pradal"
+
+# Author settings
+author-pic: alexandre_barbot.jpg
+author-name: Alexandre Barbot
+about-author-1: My name is Alexandre.
+website: https://photos-graphein.fr
+
+# Social link
+google_url:    # add url link
+twitter_url:   # add url link 
+instagram_url: https://instagram.com/photos_graphein
+facebook_url:  https://www.facebook.com/FotosGraphein
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
