@@ -6,6 +6,7 @@ var pngquant = require('imagemin-pngquant');
 var cache = require('gulp-cache');
 var cp = require('child_process');
 var browserSync = require('browser-sync');
+var deploy = require('gulp-gh-pages');
 
 var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 
@@ -53,7 +54,8 @@ gulp.task('img', function() {
 			use: [pngquant()]
 		})))
     .pipe(gulp.dest('_site/assets/img'))
-    .pipe(browserSync.reload({stream:true}));
+    .pipe(browserSync.reload({stream:true}))
+    .pipe(deploy());
 });
 
 // Fonts
