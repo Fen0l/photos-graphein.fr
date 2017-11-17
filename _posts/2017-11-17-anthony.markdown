@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Anthony"
+img: antho3.png
+date: 2017-11-17 11:08:05 +0100
+description: A great friend of mine.
+tag: [friend, bordeaux]
+---
+
+![Picture 1](/assets/images/antho3.png)
+A great friend of mine
+
