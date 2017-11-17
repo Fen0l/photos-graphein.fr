@@ -4,9 +4,9 @@ title: "Anthony"
 preview: antho3.jpg
 date: 2017-11-17 11:08:05 +0100
 description: A great friend of mine.
-tag: [friend, bordeaux]
+tag: [friend, Bordeaux]
 ---
 
 ![Picture 1](/assets/images/antho3.jpg)
-A great friend of mine
 
+A great friend of mine

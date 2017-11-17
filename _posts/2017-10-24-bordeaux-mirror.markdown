@@ -9,4 +9,4 @@ tag: [Travel, Bordeaux, Mirror]
 
 ![Picture 1](/assets/images/miroirdeaubdx.jpg)
 
-A beautifull place located at Bordeaux, in France. Place de la Bourse.
+A beautiful place located at Bordeaux, in France. Place de la Bourse.
