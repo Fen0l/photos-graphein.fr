@@ -7,6 +7,6 @@ description:  .
 tag: [Portrait]
 ---
 
-![Picture 1](/assets/images/dsc_0259_8.jpg)
+![Picture 1](/assets/images/dsc_0259.min.jpg)
  
 
