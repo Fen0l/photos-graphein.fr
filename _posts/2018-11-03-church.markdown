@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Church"
+preview: dsc_0147.min.jpg
+date: 2018-11-03 15:24:06 +0100
+description: Santo Stefano, Bologna.
+tag: [Travel,Church,Bologna]
+---
+
+![Picture 1](/assets/images/dsc_0147.min.jpg)
+Santo Stefano, Bologna
+
