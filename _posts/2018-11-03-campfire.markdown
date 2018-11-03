@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Campfire"
+preview: fire.min.jpg
+date: 2018-11-03 16:11:51 +0100
+description: Campfire at Ayous Lake.
+tag: [Campfire, Mountain, Lake]
+---
+
+![Picture 1](/assets/images/fire.min.jpg)
+Campfire at Ayous Lake
+
